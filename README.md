@@ -14,7 +14,6 @@ I dev most of the time in python (I found it weird at first, now it's my main la
 ## Python related 🐍
 ### Tools 🛠️
 - **Nuitka**: `Python* -> C -> "EXE" COMPILER`: https://github.com/Nuitka/Nuitka
-- **PyOxidizer**: `Python -> Rust -> "EXE" COMPILER`: https://github.com/indygreg/PyOxidizer
 - **Codon**: `Python -> "EXE" COMPILER**`, Performances around C/C++ (sometimes faster): https://github.com/exaloop/codon
 
 *Supports Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11
