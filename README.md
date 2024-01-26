@@ -43,3 +43,5 @@ Python C API is really solid!
 - Don't think that the "💪👴" is better than "👴", the emojis are a little saracstic, and the "💪" just means "superset"
 - Don't worry the emojis are there only because its my profile's presentation, I tough that putting no emojis would be boring and a little sad
 - "My Skills" includes only the skills I'm sure I have
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Whattelier!;≈2.5+years+experience+nerd&font="Consolas"&color=CA9F5F&duration=2500)](https://git.io/typing-svg)
