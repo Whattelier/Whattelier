@@ -1,4 +1,4 @@
-<p align="center">Hi I'm <strong>Whattelier</strong>!</p>
+<h2 align="center">Hi I'm <strong>Whattelier</strong>!</h2>
 
 <p align="center"><i>≈2.5 years experience nerd</i></p>
 
