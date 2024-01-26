@@ -13,7 +13,7 @@ I dev most of the time in <span style="color: 'blue'">py</span><span style="colo
 Python C API is really solid!
 
 # Quick Presentation 👋
-- ✨ I love `Python 🐍, Rust ⚙️, Zig ⚡, C 👴, C++ 💪👴🎮, Java (21) ☕, Kotlin 💪☕ and C# 🥸(🎮☕)` ❤️
+- ✨ I love `Python 🐍, Nim 👑, Rust ⚙️, Zig ⚡, C 👴, C++ 💪👴🎮, Java (21) ☕, Kotlin 💪☕ and C# 🥸(🎮☕)` ❤️
 - 👀 I think that `AI 🤖 is and will be a very powerfull TOOL` 💪
 - ☝️ I `never stop to learn new (interesting) stuff 📖` 🤓
 - 🖥️ I `love "computer tech" (idk if I should name it like that) in general!` 🔥
@@ -27,7 +27,14 @@ Python C API is really solid!
 # What I learn / I Want To Learn 📖
 - ⚡ Zig is really interesting
 - ⚙️ Rust is also interesting (but the compiler seems to be really annoying)
+- 👑 Nim looks really cool
 - ⌨️ Learning how to use Nvim (of course)
+
+![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
+
+![Nvim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 # My Skills 🛠️
 [![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
