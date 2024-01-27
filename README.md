@@ -2,8 +2,6 @@
 
 <p align="center"><i>≈2.5 years experience nerd</i></p>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Whattelier.Whattelier&left_color=blue&right_color=yellow&left_text=Visitors)
-
 ![Whattelier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whattelier&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Whattelier&theme=onedark)](https://github.com/Whattelier/github-readme-stats)
