@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Whattelier&theme=onedark)](https://github.com/Whattelier/github-readme-stats)
 
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Whattelier/Whattelier/output/github-contribution-grid-snake.svg" />
+
 I dev most of the time in <span style="color: 'blue'">py</span><span style="color: 'yellow'">thon</span> (I found it weird at first, now it's my main language for building projects)
 
 Python C API is really solid!
