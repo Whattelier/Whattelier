@@ -27,7 +27,7 @@ Python C API is really solid!
 # What I learn / I Want To Learn 📖
 - ⚡ Zig is really interesting
 - ⚙️ Rust is also interesting (but the compiler seems to be really annoying)
-- 👑 Nim looks really cool
+- 👑 Leraning Nim (really cool language)
 - ⌨️ Learning how to use Nvim (of course)
 
 ![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
