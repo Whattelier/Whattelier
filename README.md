@@ -36,7 +36,7 @@ If you want fast Python, use a compiled language hunder the hood.
 ![Nvim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 # My Skills 🛠️
-[![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nim,cpp,vscode,pycharm)](https://skillicons.dev)
 
 # Notes
 - "My Skills" includes only the skills I'm sure I have (so the languages I know more or less how to use are not among the ones I'm most comfortable with)
