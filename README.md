@@ -6,11 +6,11 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Whattelier&theme=onedark)](https://github.com/Whattelier/github-readme-stats)
 
-<img alt="Contributions Snake 🐍" src="https://raw.githubusercontent.com/Whattelier/Whattelier/output/github-contribution-grid-snake-dark.svg" />
+<img alt="Snake who shows my contributions 🐍" src="https://raw.githubusercontent.com/Whattelier/Whattelier/output/github-contribution-grid-snake-dark.svg" />
 
 I dev most of the time in python (I found it weird at first, now it's my main language for building projects)
 
-Python C API is really cool!
+If you want fast Python, use a compiled language hunder the hood.
 
 # Quick Presentation 👋
 - 👀 I think that `AI 🤖 is a very cool tool` 💪
@@ -40,5 +40,3 @@ Python C API is really cool!
 
 # Notes
 - "My Skills" includes only the skills I'm sure I have (so the languages I know more or less how to use are not among the ones I'm most comfortable with)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=500&color=6AAB73&random=false&width=435&lines=%22Hi+I'm+Whattelier!%22;%22%E2%89%882.5+years+experience+nerd%22)](https://git.io/typing-svg)
