@@ -6,11 +6,6 @@
 
 I use Python most of the time (I thought it was weird at first, now it's my main language for building projects).
 
-# Quick Presentation 👋
-- I think that `AI 🧠 is a very cool tool`
-- I `never stop to learn new (interesting) stuff` 📖
-- I love `computer related` stuff!
-
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Brave Search / Startpage](https://img.shields.io/badge/Brave%20Search%20/%20Startpage-4285F4?style=for-the-badge&logo=Brave&logoColor=white)
@@ -20,13 +15,12 @@ I use Python most of the time (I thought it was weird at first, now it's my main
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
 
 # What I learn / I Want To Learn 📖
 - ⚡ Zig is really interesting
