@@ -2,9 +2,7 @@
 
 <p align="center"><i>≈3 years experience nerd</i></p>
 
-<img alt="Snake who shows my contributions 🐍" src="https://raw.githubusercontent.com/Whattelier/Whattelier/output/github-contribution-grid-snake-dark.svg" />
-
-I use Python most of the time (I thought it was weird at first, now it's my main language for building projects).
+I use Python most of the time.
 
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
