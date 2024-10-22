@@ -1,6 +1,6 @@
 <h2 align="center">Hi I'm Whattelier!</h2>
 
-<p align="center"><i>≈3 years experience nerd</i></p>
+<p align="center"><i>≈4 years experience nerd</i></p>
 
 I use Python most of the time.
 
